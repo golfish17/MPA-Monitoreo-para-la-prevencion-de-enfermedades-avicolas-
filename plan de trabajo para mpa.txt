@@ -1,0 +1,24 @@
+programar sensor industrial con modbus rtu para poder iniciar 
+
+puedo partir sacando los valores seriales del sensor con Python
+
+ya que me los de exactamente los valores puedo mostrarlos en una tipo hmi con tinker 
+tinker que haga una división de 3 secciones como un tríptico
+1 temperatura de pollos
+2 ppm de sensores de amoniaco
+3 temperatura y humedad ambiente
+
+
+tomar arriba valores en forma de lista como tipio el buffer serial
+abajo una graficacion de temperatura
+
+poner un botón abajo para poner esos valores cuantificables en un archivo .csv 
+para tenerlos acomodados para la adquisición de datos 
+
+poner como tipo aplicación que al iniciar con el logo y luego cargar a la pantalla principal 
+
+
+hacer lo mismo con las demás 
+
+
+
