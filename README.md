@@ -34,7 +34,7 @@ Las siguientes imágenes forman parte del dataset construido para el proyecto. C
 
 | Imagen Normal | Imagen Térmica |
 |:---:|:---:|
-| <img src="DATA_SET-POLLOS/IMG_0002.jpg" width="280"/> | <img src="DATA_SET-POLLOS/IMG_0002.BMP" width="280"/> |
+| <img src="DATA_SET-POLLOS/IMG_0002.jpg" width="280"/> | <img src="DATA_SET-POLLOS/termica016.jpg" width="280"/> |
 | Vista en jaula — sujeto en reposo | Análisis de distribución térmica |
 
 </div>
@@ -45,7 +45,7 @@ Las siguientes imágenes forman parte del dataset construido para el proyecto. C
 
 | Imagen Normal | Imagen Térmica |
 |:---:|:---:|
-| <img src="DATA_SET-POLLOS/IMG_0016.jpg" width="280"/> | <img src="DATA_SET-POLLOS/IMG_0016.BMP" width="280"/> |
+| <img src="DATA_SET-POLLOS/IMG_0016.jpg" width="280"/> | <img src="DATA_SET-POLLOS/termica002.jpg" width="280"/> |
 | Vista de cresta y cara — inspección directa | Temperatura superficial facial |
 
 </div>
