@@ -6,11 +6,21 @@
 <img src="https://img.shields.io/badge/Protocolo-Modbus%20RTU-FF6B35?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Universidad-UTTehuac%C3%A1n-1A1A2E?style=for-the-badge"/>
 
+ <img src="assets/logo_izquierdo.png" width="120" style="margin-right: 40px;">
+  
+  <img src="assets/logo_mpa.png" width="120">
+  
+  <img src="https://github.com/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-/blob/8d909e191c38a2149c908224cb7a4d1a26f0b0b6/RECURSOS-DATASHET-INFO/LOGOMPA.jpeg" width="120" style="margin-left: 40px;">
+</div>
+
+<div align="center">
+
 # 🐔 MPA — Monitoreo para la Prevención de Enfermedades Avícolas
 
-> **Sistema de monitoreo ambiental inteligente** para la detección temprana de condiciones críticas en granjas avícolas, integrando sensores industriales, comunicación Modbus y análisis térmico.
+> **Sistema de monitoreo ambiental inteligente** para la detección temprana de condiciones críticas en granjas avícolas.
 
 **Alexis Villegas Alvarado** · Ingeniería en Mecatrónica · Universidad Tecnológica de Tehuacán
+
 
 </div>
 
