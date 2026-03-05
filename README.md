@@ -21,7 +21,7 @@
 
 ### 👥 Equipo de Trabajo
 
-**Alexis Villegas Alvarado** • **Emmanuel Urrutia Carrazco**
+**Alexis Villegas Alvarado** • **Emmanuel Urrutia Carrazco** • 
 **Daniel Emiliano Lopez Rivera** • **Ismael Cuautle Villalobos**
 
 <p align="center">
