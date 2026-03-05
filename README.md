@@ -197,7 +197,7 @@ Universidad Tecnológica de Tehuacán
 
 ## 📄 Licencia
 
-<img src="https://img.shields.io/github/license/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=007acc" alt="License: GPL v3"/>
+<img src="https://img.shields.io/github/license/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-?style=for-the-badge&logo=gnu&logoColor=white&color=blueviolet" alt="License"/>
 
 ---
 
