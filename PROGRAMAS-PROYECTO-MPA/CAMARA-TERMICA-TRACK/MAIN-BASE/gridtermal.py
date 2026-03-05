@@ -5,7 +5,7 @@ import time
 
 # --- CONFIGURACIÓN ---
 # Prueba con 0 si es la única cámara, o 1 si es una externa USB
-CAM_INDEX = 0
+CAM_INDEX = 1
 # En Windows, usar cv2.CAP_DSHOW ayuda a iniciar cámaras USB más rápido
 # En Linux/Mac, puedes quitar "+ cv2.CAP_DSHOW"
 BACKEND = cv2.CAP_DSHOW 

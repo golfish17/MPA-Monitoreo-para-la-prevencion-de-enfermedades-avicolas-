@@ -1,3 +1,9 @@
+"""
+╔══════════════════════════════════════════════════════╗
+║         MPA - HMI Dashboard v5                       ║
+║         Cámara al centro, datos alrededor            ║
+╚══════════════════════════════════════════════════════╝
+"""
 
 import tkinter as tk
 from tkinter import ttk, messagebox
@@ -51,7 +57,7 @@ class SplashScreen:
         frame = tk.Frame(root, bg=C_BG)
         frame.pack(expand=True, fill="both")
         try:
-            path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "LOGOMPA.png")
+            path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "logo.png")
             img = Image.open(path).convert("RGBA").resize((160, 160), Image.LANCZOS)
             self.logo_img = ImageTk.PhotoImage(img)
             tk.Label(frame, image=self.logo_img, bg=C_BG).pack(pady=(28, 6))
