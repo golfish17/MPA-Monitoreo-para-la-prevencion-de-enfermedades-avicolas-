@@ -6,8 +6,8 @@
 <img src="https://img.shields.io/badge/Protocolo-Modbus%20RTU-FF6B35?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Universidad-UTTehuac%C3%A1n-1A1A2E?style=for-the-badge"/>
 
- <img src="assets/logo_izquierdo.png" width="120" style="margin-right: 40px;">
-  
+ <img src="https://github.com/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-/blob/d06c1559ccef86fdad17a6cc2e8188727c2fdf99/RECURSOS-DATASHET-INFO/LOGOMECA.png" width="120" style="margin-right: 40px;">
+ 
   <img src="assets/logo_mpa.png" width="120">
   
   <img src="https://github.com/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-/blob/e38569a594e3216e6abc5e14a585c5aa4cd9ad0a/RECURSOS-DATASHET-INFO/LOGOMPA.png" width="120" style="margin-left: 40px;">
