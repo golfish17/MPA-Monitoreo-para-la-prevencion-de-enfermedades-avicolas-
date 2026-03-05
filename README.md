@@ -10,7 +10,7 @@
   
   <img src="assets/logo_mpa.png" width="120">
   
-  <img src="https://github.com/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-/blob/8d909e191c38a2149c908224cb7a4d1a26f0b0b6/RECURSOS-DATASHET-INFO/LOGOMPA.jpeg" width="120" style="margin-left: 40px;">
+  <img src="https://github.com/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-/blob/8d909e191c38a2149c908224cb7a4d1a26f0b0b6/RECURSOS-DATASHET-INFO/LOGOMPA.png" width="120" style="margin-left: 40px;">
 </div>
 
 <div align="center">
