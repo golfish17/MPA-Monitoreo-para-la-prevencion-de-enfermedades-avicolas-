@@ -186,7 +186,7 @@ MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-/
 <div align="center">
 
 **Alexis Villegas Alvarado**  
-Ingeniería en Mecatrónica  
+TSU Manufactura Flexible 
 Universidad Tecnológica de Tehuacán
 
 [![GitHub](https://img.shields.io/badge/GitHub-golfish17-181717?style=for-the-badge&logo=github)](https://github.com/golfish17)
