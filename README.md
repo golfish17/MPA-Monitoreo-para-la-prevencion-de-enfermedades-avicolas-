@@ -25,8 +25,8 @@
 **Daniel Emiliano Lopez Rivera** • **Ismael Cuautle Villalobos**
 
 <p align="center">
-  🏭 <b>TSU Manufactura Flexible</b> /
-  ⚡ <b>Instalaciones Eléctricas Industriales</b><br>
+  🏭 <b>TSU Manufactura Flexible</b> / ⚡ <b>Instalaciones Eléctricas Industriales</b>  
+  <br>
   🏛️ <i>Universidad Tecnológica de Tehuacán</i>
 </p>
 
