@@ -1,26 +1,34 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Plataforma-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lenguaje-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Protocolo-Modbus%20RTU-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Universidad-UTTehuac%C3%A1n-1A1A2E?style=for-the-badge"/>
-
- <img src="assets/logo_izquierdo.png" width="120" style="margin-right: 40px;">
-  
-  <img src="assets/logo_mpa.png" width="120">
-  
-  <img src="https://github.com/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-/blob/e38569a594e3216e6abc5e14a585c5aa4cd9ad0a/RECURSOS-DATASHET-INFO/LOGOMPA.png" width="120" style="margin-left: 40px;">
-</div>
-
-<div align="center">
-
-# 🐔 MPA — Monitoreo para la Prevención de Enfermedades Avícolas
+| <img src="https://github.com/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-/blob/d06c1559ccef86fdad17a6cc2e8188727c2fdf99/RECURSOS-DATASHET-INFO/LOGOMECA.png?raw=true" width="100"> | <h1 align="center">🐔 MPA<br><sub>Monitoreo para la Prevención de Enfermedades Avícolas</sub></h1> | <img src="https://github.com/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-/blob/e38569a594e3216e6abc5e14a585c5aa4cd9ad0a/RECURSOS-DATASHET-INFO/LOGOMPA.png?raw=true" width="100"> |
+| :--- | :---: | ---: |
 
 > **Sistema de monitoreo ambiental inteligente** para la detección temprana de condiciones críticas en granjas avícolas.
 
-**Alexis Villegas Alvarado** · Ingeniería en Mecatrónica · Universidad Tecnológica de Tehuacán
+---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge&logo=github"/> 
+  <img src="https://img.shields.io/badge/Plataforma-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Lenguaje-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Protocolo-Modbus%20RTU-FF6B35?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Universidad-UTTehuacán-1A1A2E?style=for-the-badge"/>
+</p>
+
+---
+
+<div align="center">
+
+### 👥 Equipo de Trabajo
+
+**Alexis Villegas Alvarado** • **Emmanuel Urrutia Carrazco** • 
+**Daniel Emiliano Lopez Rivera** • **Ismael Cuautle Villalobos**
+
+<p align="center">
+  🏭 <b>TSU Manufactura Flexible</b>  •   ⚡ <b>Instalaciones Eléctricas Industriales</b>  
+  <br>
+  🏛️ <i>Universidad Tecnológica de Tehuacán</i>
+</p>
 
 </div>
 
@@ -186,7 +194,7 @@ MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-/
 <div align="center">
 
 **Alexis Villegas Alvarado**  
-Ingeniería en Mecatrónica  
+TSU Manufactura Flexible 
 Universidad Tecnológica de Tehuacán
 
 [![GitHub](https://img.shields.io/badge/GitHub-golfish17-181717?style=for-the-badge&logo=github)](https://github.com/golfish17)
@@ -197,7 +205,7 @@ Universidad Tecnológica de Tehuacán
 
 ## 📄 Licencia
 
-Pendiente de definir. Proyecto académico en desarrollo activo.
+<img src="https://img.shields.io/github/license/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-?style=for-the-badge&logo=gnu&logoColor=white&color=blueviolet" alt="License"/>
 
 ---
 
