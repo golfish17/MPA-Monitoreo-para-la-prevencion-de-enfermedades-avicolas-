@@ -16,8 +16,11 @@
 </p>
 
 ### 👤 Información del Proyecto
-**Autor:** Alexis Villegas Alvarado  
-**Carrera:** Ingeniería en Mecatrónica  
+**Autores:** Alexis Villegas Alvarado
+             Emmanuel Urrutia Carrazco
+             Daniel Emiliano Lopez Rivera
+             Ismael Cuautle Villalobos
+**Carrera:** TSU Manufactura Flexible/Instalaciones Electricas Industriales  
 **Institución:** Universidad Tecnológica de Tehuacán
 
 </div>
@@ -194,7 +197,7 @@ Universidad Tecnológica de Tehuacán
 
 ## 📄 Licencia
 
-Pendiente de definir. Proyecto académico en desarrollo activo.
+<img src="https://img.shields.io/github/license/golfish17/MPA-Monitoreo-para-la-prevencion-de-enfermedades-avicolas-?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=007acc" alt="License: GPL v3"/>
 
 ---
 
