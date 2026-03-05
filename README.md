@@ -15,15 +15,24 @@
   <img src="https://img.shields.io/badge/Universidad-UTTehuacán-1A1A2E?style=for-the-badge"/>
 </p>
 
-### 👤 Información del Proyecto
-**Autores:** Alexis Villegas Alvarado
-             Emmanuel Urrutia Carrazco
-             Daniel Emiliano Lopez Rivera
-             Ismael Cuautle Villalobos
-**Carrera:** TSU Manufactura Flexible/Instalaciones Electricas Industriales  
-**Institución:** Universidad Tecnológica de Tehuacán
+---
+
+<div align="center">
+
+### 👥 Equipo de Trabajo
+
+**Alexis Villegas Alvarado** • **Emmanuel Urrutia Carrazco**
+**Daniel Emiliano Lopez Rivera** • **Ismael Cuautle Villalobos**
+
+<p align="center">
+  🎓 <b>TSU Manufactura Flexible</b><br>
+  ⚡ <b>Instalaciones Eléctricas Industriales</b><br>
+  🏛️ <i>Universidad Tecnológica de Tehuacán</i>
+</p>
 
 </div>
+
+---
 ---
 
 ## 📌 ¿Qué es MPA?
